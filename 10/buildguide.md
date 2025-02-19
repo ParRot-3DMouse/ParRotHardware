@@ -125,7 +125,7 @@ ParRotを作成する際に使用した工具を次に示します．
 | 3 | 6 | 6P | 30mm | 順 |
 | 4 | 5 | 8P | 80mm | ー |
 
-![01](img/cable/cable.jpg)
+![01](img/cable/cable.png)
 4について
 コンタクトが見える側で↓のようにケーブルを差し込んでください．  
 |o|o|-|-|o|o|o|-|
@@ -135,7 +135,7 @@ ParRotを作成する際に使用した工具を次に示します．
 また，ピンバイス等を用いてネジを通す穴をネジが通るように加工してください．  
 1. インサートナットを熱圧入します．
 本体底面部においては次の8箇所にインサートナットを圧入します．  
-![本体底面部インサートナット](img/3dprint/insert_bottom.jpg)  
+![本体底面部インサートナット](img/3dprint/insert_bottom.png)  
 本体カバーにおいては次の1箇所にインサートナットを圧入します．  
 ![本体カバーインサートナット](img/3dprint/insert_cover.jpg)  
 ボール保持部においては次の2箇所にインサートナットを圧入します．  
@@ -386,8 +386,8 @@ OLEDを基板に差し込みます．任意で基板の裏側から出ている�
 | 2 | M2 10mmネジ |
 | 3 | M2 20mmネジ |
 
-![ねじ締結場所1](img/assemble/screw1.jpg)  
-![ねじ締結場所2](img/assemble/screw2.jpg)  
+![ねじ締結場所1](img/assemble/screw1.png)  
+![ねじ締結場所2](img/assemble/screw2.png)  
 
 OLEDモジュールカバーを取り付けます．締結にはM2 8mmネジを使用します．  
 ![OLEDモジュールカバー取り付け](img/assemble/oled_cover_mount.jpg)  
