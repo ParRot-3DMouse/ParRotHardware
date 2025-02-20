@@ -23,17 +23,17 @@
 ## 必要なもの
 ### 基板
 | 名前 | 数 | データへのリンク |
-|:-|:-|:-|
-| メイン基板 | 1 | |
-| センサモジュール基板 | 1 | |
-| サイドキーパッド基板 | 1 | |
-| OLEDモジュール基板 | 1 | |
-| 親指モジュール基板 | 1 | |
-| 追加キーパッドモジュール基板 | 1 | |
+|:-|:-:|:-:|
+| メイン基板 | 1 | [こちら](https://github.com/ParRot-3DMouse/ParRotHardware/tree/main/1.0/PCB/main) |
+| センサモジュール基板 | 1 | [こちら](https://github.com/ParRot-3DMouse/ParRotHardware/tree/main/1.0/PCB/sensor) |
+| サイドキーパッド基板 | 1 | [こちら](https://github.com/ParRot-3DMouse/ParRotHardware/tree/main/1.0/PCB/side)|
+| OLEDモジュール基板 | 1 | [こちら](https://github.com/ParRot-3DMouse/ParRotHardware/tree/main/1.0/PCB/OLED) |
+| 親指モジュール基板 | 1 | [こちら](https://github.com/ParRot-3DMouse/ParRotHardware/tree/main/1.0/PCB/thumb) |
+| 追加キーパッドモジュール基板 | 1 | [こちら](https://github.com/ParRot-3DMouse/ParRotHardware/tree/main/1.0/PCB/extra) |
 
 ### 3Dプリンタ造形部品
 | 名前 | 数 | ファイル名 |
-|:-|:-|:-|
+|:-|:-:|:-|
 | 本体底面部 | 1 | bottom.step |
 | 本体カバー | 1 | body_cover.step |
 | debugカバー | 1 | debug_cover.step |
