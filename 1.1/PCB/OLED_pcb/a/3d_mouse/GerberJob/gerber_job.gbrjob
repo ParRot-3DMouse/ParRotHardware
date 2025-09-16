@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-09-15T20:46:28Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.67,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "OLED_pcb v6"
+        },
+        "Owner": "西村 陽向 <hinata0642@gmail.com>",
+        "Size": {
+            "X": 40,
+            "Y": 20
+        }
+    }
+}

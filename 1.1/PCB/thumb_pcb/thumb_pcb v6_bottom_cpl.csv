@@ -1,0 +1,8 @@
+Designator,Mid X,Mid Y,Layer,Rotation
+CN1,-2.62,-11.09,Bottom,0.0
+D1,-15.24, 5.08,Bottom,270.0
+D2, 3.81, 1.27,Bottom,270.0
+LED1,-9.53,-4.70,Bottom,0.0
+LED2, 9.53,-7.70,Bottom,0.0
+SW1,-9.53, 0.00,Bottom,0.0
+SW2, 9.53,-3.00,Bottom,0.0

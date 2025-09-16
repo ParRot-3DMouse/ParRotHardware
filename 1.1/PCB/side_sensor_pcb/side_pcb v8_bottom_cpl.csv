@@ -1,0 +1,8 @@
+Designator,Mid X,Mid Y,Layer,Rotation
+C1,-8.00, 0.00,Bottom,90.0
+C2,-8.00,-3.00,Bottom,270.0
+C3, 7.13,-18.01,Bottom,0.0
+C4, 6.86,-11.44,Bottom,180.0
+R1, 8.00,-3.50,Bottom,270.0
+R2, 8.00, 3.70,Bottom,270.0
+U2, 6.81,-14.33,Bottom,90.0
